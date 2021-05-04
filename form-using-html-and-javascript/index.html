@@ -1,0 +1,146 @@
+<!-- P18-0032 -->
+<!-- #Dawood Zahir -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<title>Assignment 1</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
+	 crossorigin="anonymous">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+
+	</script>
+
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">
+
+	</script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
+
+	</script>
+	<link rel="stylesheet" href="style.css">
+	<script  type=“text/JavaScript” src="backend.js"></script>
+
+
+
+
+
+</head>
+
+<body>
+	<script src="backend.js">
+
+	</script>
+	<div class="bg-image" style="
+    background-image: url('https://data.whicdn.com/images/301885771/original.gif');
+    height: 210vh; ">
+
+
+
+
+		<div class="container col-md-4 col-md-offset-4 ">
+
+			<form>
+				<div class="form-group ">
+					<label for="exampleInputName1">Full Name</label>
+        <input type="name" class="form-control" id="exampleInputName1" aria-describedby="name" placeholder="Enter Your Full name">
+      </div>
+      <p3>
+
+        <span id="errorn"></span>
+      </p3>
+			<button type="button"  id="btn1" onclick="namee()" value="Show">Next</button>
+      <br>
+	<br>
+      <div id="hide1">
+
+      <div class="form-group ">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+      </div>
+</div>
+
+      <p3>
+        <span id="errore"></span>
+      </p3>
+
+      <br>
+			<button type="button"  id="btn2" onclick="show_email()" value="Show">Next</button>
+      <div id="hide2">
+      <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+      </div>
+	</div>
+
+
+      <p3>
+        <span id="errorp"></span>
+      </p3>
+			<button type="button"  id="btn3" onclick="show_password()" value="Show">Next</button>
+
+<div id="hide3">
+      <h3>Gender</h3>
+<input type="radio" name="gender" id="mpm" value="male"> Male<br>
+<input type="radio" name="gender" id="fpm" value="female"> Female<br>
+</div>
+ <br>
+
+      <p3>
+        <span id="genderr"></span>
+      </p3>
+			<button type="button"  id="btn4" onclick="show_gender()" value="Show">Next</button>
+
+      <br>
+      <div id="hide4">
+ <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" id="sele">
+  <option selected>Your Semester</option>
+  <option value="1">First</option>
+  <option value="2">Second</option>
+  <option value="3">Third</option>
+  <option value="4">Fourth</option>
+  <option value="5">Fifth</option>
+  <option value="6">Sixth</option>
+  <option value="7">Seventh</option>
+  <option value="8">Eighth</option>
+</select>
+      <p3>
+        <span id="semester"></span>
+      </p3>
+      </div>
+
+      <br>
+				<button type="button"  id="btn5" onclick="show_gender()" value="Show">Next</button>
+      <div id="hide5">
+      <h2>Courses</h2>
+			Courses:
+			<p><input type="checkbox" class="myCheck" value="Calculus"> Calculus</p>
+			<p><input type="checkbox" class="myCheck" value="Differetial Equations">Differetial Equations</p>
+			<p><input type="checkbox" class="myCheck" value="Programming Fundamentals">Programming Fundamentals</p>
+			<p><input type="checkbox" class="myCheck" value="Web Programming">Web Programming</p>
+			<p><input type="checkbox" class="myCheck" value="Network Security">Network Security</p>
+			<p><input type="checkbox" class="myCheck" value="Information Security">Information Security</p>
+			<p><input type="checkbox" class="myCheck" value="Object Oriented Programming">Object Oriented Programming</p>
+			<p><input type="checkbox" class="myCheck" value="Data Structures">Data Structures</p>
+			<p><input type="checkbox" class="myCheck" value="Operating Systems">Operating Systems</p>
+			<p><input type="checkbox" class="myCheck" value="Artifical Intelligence">Artifical Intelligence</p>
+      <!-- <button type="button" class="btn btn-primary" onclick="checking()" value="Show">Next</button> -->
+			<p id="cours"></p>
+			<button type="button"  id="btn6" onclick="courses()" value="Show">Next</button>
+	  </form>
+		<button type="button"  id="btn7" onclick="openLink()" value="Show">Submit</button>
+</div>
+
+   </div>
+  </body>
+</html>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script type="text/javascript" src="../pwstrength.js"></script>

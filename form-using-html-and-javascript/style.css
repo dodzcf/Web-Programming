@@ -1,0 +1,90 @@
+.big-banner {
+  background-image: url("https://wallpapercave.com/wp/wp4288359.jpg");
+}
+
+.container {
+  background-color: #251D1C;
+  margin-top: 30px;
+}
+
+.dropdown-menu {
+  background-color: orange;
+}
+
+#errorn
+{
+  color:red;
+}
+#errorp
+{
+  color:red;
+}
+#errore
+{
+  color:red;
+
+}
+#genderr
+{
+  color:red;
+}
+p
+{
+  color: white;
+}
+h2
+{
+  color: white;
+}
+
+p3
+{
+	color:white;
+}
+
+#hide1
+{
+  display:none;
+}
+
+#hide2
+{
+  display:none;
+}
+#hide3
+{
+  display:none;
+}
+#hide4
+{
+  display:none;
+}
+#hide5
+{
+  display:none;
+}
+#btn2
+{
+  display:none;
+  /* background-color:blue; */
+}
+#btn5
+{
+  display:none;
+  /* background-color:blue; */
+}
+#btn3
+{
+  display:none;
+  /* background-color:blue; */
+}
+#btn4
+{
+  display:none;
+  /* background-color:blue; */
+}
+#btn7
+{
+  display:none;
+  /* background-color:blue; */
+}
