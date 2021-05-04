@@ -1,4 +1,4 @@
-<h1 text-align: center;>Form using html and Javascript</h1>
+<h1>Form using html and Javascript</h1>
 <hr>
 <p>This will include my assignments in Web Programming course. Anyone who wants to use the codes in this folder is permitted to do so.</p>
 <br>
