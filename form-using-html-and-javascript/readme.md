@@ -6,8 +6,8 @@
 <br align="center">
 
 <h2 align="center">Validity Check</h2>
-<a href="https://im3.ezgif.com/tmp/ezgif-3-64a69d970720.gif" align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-64a69d970720.gif" title="gif"/ ></a>
+<a href="https://im3.ezgif.com/tmp/ezgif-3-64a69d970720.gif" align="center"><img src="https://im3.ezgif.com/tmp/ezgif-3-64a69d970720.gif" title="gif" align="center"/ ></a>
 <br>
 
 <h2 align="center">Successfully Validation of Form</h2>
-<a href="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif"><img src="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif" title="gif"/></a>
+<a href="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif"><img src="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif" title="gif" align="center"/></a>
