@@ -11,5 +11,5 @@
 
 <br>
 
-<h2>Successfully Validation of Form</h2>
+<h2>Successful Validation of Form</h2>
 <a href="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif"><img src="https://im3.ezgif.com/tmp/ezgif-3-9c02c3c18fdd.gif" title="gif" align="center"/></a>
