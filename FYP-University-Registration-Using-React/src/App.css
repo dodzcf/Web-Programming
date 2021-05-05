@@ -1,0 +1,86 @@
+/* img {
+    width: 4%;
+  } */
+body{
+    background:blue;
+}
+  /* .edit
+  {
+      background-color:red ;
+  } */
+  .jumbotron {
+    background-color: dodgerblue!important;
+}
+
+.jumbotron:hover
+{
+    background-color: #483D8B!important;
+    
+}
+.text
+{
+    color: black;
+}
+
+.card
+{
+    width:18rem;
+    background-color: dodgerblue!important;
+    margin: 46px;
+}
+
+.card:hover
+{
+    background-color: dimgray!important;
+}
+
+.jumbotron2
+{
+    background-color: dodgerblue!important;
+}
+
+.jumbotron2:hover
+{
+    background-color: lightslategray!important;
+}
+
+.jumbotron3
+{
+    background-color: dodgerblue!important;
+    
+}
+.jumbotron3:hover
+{
+    background-color: #4169E1!important;
+}
+
+
+
+.xyz
+{
+    background-image: url("https://www.freevector.com/uploads/vector/preview/30348/Minimal_Dynamic_Background.jpg")!important;
+     border-radius: 01em;
+    /* filter: blur(8px); */
+}
+
+
+
+.cardx
+{
+    width:18rem;
+    background-color: dodgerblue!important;
+    margin: 46px;
+}
+.cardx:hover{
+    background-color: dimgray!important;
+}
+
+.cardp
+{
+    width:18rem;
+    background-color: dodgerblue!important;
+    margin: 46px;
+}
+.cardp:hover{
+    background-color: dimgray!important;
+}
