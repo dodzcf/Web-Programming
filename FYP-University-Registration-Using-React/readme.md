@@ -11,4 +11,4 @@
 
 <br>
 
-<p>If you don't know how to use REACT, go into <a href="https://reactjs.org/docs/create-a-new-react-app.html">REACT</a>. If you are having trouble with the "npm" command then go to <a href="https://nodejs.org/en/download/">NODE.JS</a> .</p>
+<p>If you don't know how to use REACT, go into <a href="https://reactjs.org/docs/create-a-new-react-app.html">REACT</a>. If you are having trouble with the "npm/npx" command then go to <a href="https://nodejs.org/en/download/">NODE.JS</a> .</p>
