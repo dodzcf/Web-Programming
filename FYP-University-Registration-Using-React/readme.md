@@ -8,3 +8,7 @@
 <p>In order to run this, create a new React Project. The project can be created by opening the terminal and tpying<br><strong>npx create-react-app my-app.</strong><br> Copy and paste all the files in the my-app folder that</p>
 <br>
 <p>After replacing all the files in the my-app folder, open the cmd and type cd my-app and type <br><strong>"npm start"</strong><br>This will get your project running. You can edit the code according to your likings.
+
+<br>
+
+<p>If you don't know how to use REACT, go into <a href="https://reactjs.org/docs/create-a-new-react-app.html">REACT</a>. If you are having trouble with the "npm" command then go to <a href="https://nodejs.org/en/download/">NODE.JS</a> .</p>
