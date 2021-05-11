@@ -1,0 +1,37 @@
+.card_info
+{
+    text-align: center;
+    
+}
+
+
+
+.card_img
+{
+    width: 202px;
+}
+
+.cards
+{
+    width: 100%;
+    height: auto;
+}
+
+.card
+{
+    margin: 7%;
+    transition: all 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
+    background-color: #fff;
+    width: 20;
+    border-radius: 12px;
+    float: left;
+}
+
+.card:hover
+{   
+    transition:0.3s;
+    background-color: rgb(85, 84, 84);
+    flex: 0 0 205px;
+    box-shadow: 0px 30px 28px 8px green;
+    transform:scale(1.05,1.05);
+}
